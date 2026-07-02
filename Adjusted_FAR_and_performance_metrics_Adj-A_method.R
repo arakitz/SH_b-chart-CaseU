@@ -12,7 +12,6 @@ pstar<-0.05 # threshold p', here p'=0.05
 v01<-0.35 # mu
 v02<-0.30 # sigma
 #######################
-#for(m in c(300,400)){
 m<-100 # size of the Phase I sample
 B<-matrix(0,ncol=2,nrow=sims) # empty matrix
 # generate 25000 random samples of size m
