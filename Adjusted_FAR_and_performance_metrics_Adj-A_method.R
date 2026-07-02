@@ -8,7 +8,7 @@ alpha0<-0.0027 # nominal FAR
 ARL0<-1/alpha0 # nominal ARL0 value
 pstar<-0.05 # threshold p', here p'=0.05
 # parameters of the re-parameterized Beta distribution
-# here (mu,sigma) = (0.15,0.20)
+# here (mu,sigma) = (0.35,0.30)
 v01<-0.35 # mu
 v02<-0.30 # sigma
 #######################
